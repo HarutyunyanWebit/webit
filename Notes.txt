@@ -1,0 +1,3 @@
+desctop-ի վրա ստեղծել եմ folder, որի մեջ ստեղծել եմ index.html document, այնուհետև ստեղծել եմ Js-ի համար նախատեսված folder իր մեջ js document < script.js > անունով։
+
+Այնուհետև script.js document-ը կցել էմ index.html document-ին իսկ script.js document-ում կանչել եմ alert function-ը և իր մեջ գրել եմ hello world
